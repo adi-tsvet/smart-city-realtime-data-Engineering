@@ -146,3 +146,24 @@ _spark_metadata/**
 **spark_metadata**
 ```
 
+## Authors
+
+* **Adnan Ali** - Project Lead & Main Contributor
+
+As a Master's degree holder in Computer Science from UMass Boston, I have utilized my expertise in machine learning and computer vision to spearhead the development of this integrated model system. 
+With a keen eye for innovative solutions, I have orchestrated the seamless fusion of posture analysis and logo detection models, showcasing state-of-the-art techniques in the realm of AI.
+
+Connect :
+- [GitHub](https://github.com/adi-tsvet)
+- [LinkedIn](https://www.linkedin.com/in/adi-tsvet/) 
+
+## References
+1. Video tutorial - https://www.youtube.com/watch?v=Vv_fvwF41_0
+2. Source Code: https://www.buymeacoffee.com/yusuf.ganiyu/source-code-smart-city-end-end-realtime-data-engineering-project
+3. Docker Compose Documentation: https://docs.docker.com/compose/
+4. Apache Kafka Official Site: https://kafka.apache.org/
+5. Apache Spark Official Site: https://spark.apache.org/
+6. Confluent Docs: https://docs.confluent.io/home/overview.html
+7. S3 Documentation: https://docs.aws.amazon.com/s3/
+8. AWS IAM Documentation: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+
